@@ -24,7 +24,7 @@ class App extends Component {
       href = "https://reactjs.org"
       target = "_blank"
       rel = "noopener noreferrer" >
-      Learn React <
+      Git training <
       /a> <
       /header> <
       /div>
